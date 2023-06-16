@@ -1,5 +1,4 @@
-# ymgkodv
-ymgk ödevi
- yazılım mühendisligi güncel konular için yapmış oldugum unity  ödevidir .Oyuna dair oynanış videosunun linki aşagıdadır.
+# ymgkfinal
+ymgk final ödevi
+ yazılım mühendisligi güncel konular için yapmış oldugum unity final ödevidir .
  
-   https://www.youtube.com/watch?v=OjZJIQAF9eo
